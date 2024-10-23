@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/Container.vue'
 
 export default {
   name: 'App',
@@ -26,3 +26,4 @@ export default {
   margin-top: 60px;
 }
 </style>
+./components/Container.vue
